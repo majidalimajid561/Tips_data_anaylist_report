@@ -48,6 +48,7 @@ data_anaylist_report/
 - more chance to get high Tip at Dinner Time.
 - most bill payed in range $10-$20 
 
-
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details
+## Author
+- **Name:** Majid Mehmood
+- **GitHub:** [github.com/yourusername](https://github.com/majidalimajid561)
+- **Email:** majid.official561@gmail.com
