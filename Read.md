@@ -5,7 +5,7 @@
 
 
 ## Dataset
-- **Name:** Tips dataset (built‑in from Seaborn)
+- **Name:** Tips data_set (built‑in from Seaborn)
 - **Rows:** 244
 - **Columns:** total_bill, tip, sex, smoker, day, time, size
 - **Source:** [Seaborn](https://github.com/mwaskom/seaborn-data)
