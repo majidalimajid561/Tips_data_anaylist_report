@@ -41,7 +41,7 @@ data_anaylist_report/
 3. Launch Jupyter and open `Script/your_notebook.ipynb`
 4. Run all cells
 
-### Key insight:
+**Key insight**:
 - Highest bill payed by smkores.
 - Highest bill  and tip payed by male
 - more customers on satureday.
